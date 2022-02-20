@@ -2,7 +2,7 @@
     --primary: #d81e5b;
     --secondary: #8c38ff;
     --dark: #131a26;
-    --light: #eee;
+    --light: #999;
   }
   
   *{
@@ -89,7 +89,7 @@
   .title, .subtitle{
     text-align: center;
     background-color: var(--dark);
-    color: var(--light);
+    color: #fff;
     width: 100vw;
     padding: 5px;
     margin-left: -15px;
